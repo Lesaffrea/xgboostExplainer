@@ -3,6 +3,11 @@
 export(buildExplainer)
 export(explainPredictions)
 export(showWaterfall)
+export(BuildPredictionBreakdown)
+export(ExplainPredictionsXgboost)
+#
+#
+#
 import(data.table)
 import(ggplot2)
 import(scales)
